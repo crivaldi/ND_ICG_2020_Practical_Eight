@@ -1,0 +1,5 @@
+Description of dataset
+
+The dataset is comprised of the counts based on RNA sequencing data of 4 smooth muscle airway cell lines, with and without treatment with dexamethasone.
+
+This allows for differential expression analysis.
