@@ -1,0 +1,2 @@
+The airway package contains expression data from 4 lines of lung smooth muscle cells. 
+The two replicates of each line are either in control conditions or treated with 1mM dexamethazone. 
