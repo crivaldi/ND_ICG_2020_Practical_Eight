@@ -1,0 +1,7 @@
+There are four samples, HASM cells from four white male donors under four treatment conditions: 
+1) no treatment; 
+2) treatment with a β2-agonist (i.e. Albuterol, 1μM for 18h); 
+3) treatment with a glucocorticosteroid (i.e. Dexamethasone (Dex), 1μM for 18h); 
+4) simultaneous treatment with a β2-agonist and glucocorticoid
+
+In a later version, the package was updated to include two samples, SRR1039508 and SRR1039509. 
